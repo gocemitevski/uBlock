@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.48.4 r9939" sodipodi:docname="ublock.svg" inkscape:export-ydpi="83.459267" inkscape:export-xdpi="83.459267" inkscape:export-filename="/home/rhill/permahome/workshop/ublock/private/badge-1400x560.png"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="603.1px" height="603.9px"
+	 viewBox="0 0 603.1 603.9" style="enable-background:new 0 0 603.1 603.9;" xml:space="preserve">
+<defs>
+	<inkscape:path-effect  is_visible="true" effect="spiro" id="path-effect3995"></inkscape:path-effect>
+</defs>
+<sodipodi:namedview  pagecolor="#404040" borderopacity="1.0" bordercolor="#666666" inkscape:cy="359.14259" inkscape:zoom="0.9899495" fit-margin-top="20" showgrid="false" inkscape:cx="373.81573" fit-margin-left="20" id="base" inkscape:window-height="967" inkscape:document-units="px" inkscape:current-layer="layer5" inkscape:window-x="249" inkscape:pageshadow="2" inkscape:pageopacity="1" inkscape:window-y="69" inkscape:window-width="1375" fit-margin-bottom="20" inkscape:window-maximized="0" fit-margin-right="20">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-2.9000336,4.3318037)" inkscape:label="polygon" inkscape:groupmode="layer">
+		<g id="g3003" transform="matrix(4.4946163,0,0,4.4784113,-1996.8254,-3025.1919)" inkscape:export-ydpi="20.430607" inkscape:export-xdpi="20.430607">
+		<g id="layer2" inkscape:label="polygon">
+			<path id="path3788" inkscape:connector-curvature="0" style="fill:#800000;stroke:#FFFFFF;stroke-width:2;" d="M450.5,716.4v51
+				l36,36.2h51.1l36-36.2v-51.7l-35.1-35.5h-52.2L450.5,716.4z"/>
+		</g>
+	</g>
+</g>
+<g id="layer5" transform="translate(-2.9000336,4.3318037)" inkscape:label="text" inkscape:groupmode="layer">
+	
+		<g id="text3053" transform="matrix(0.97521805,0,0,1.0217146,0,0.07624875)" inkscape:export-ydpi="20.430607" inkscape:export-xdpi="20.430607">
+		<path id="path3058" inkscape:connector-curvature="0" style="fill:#FFFFFF;" d="M219.3,472.3h61.5v-53.7l-3.8-37.9
+			c3.6,3.7,7.6,6.2,12,7.5c4.4,1.3,9.1,1.9,14.2,1.8c9.4,0,18-2.8,26-8c7.9-5.2,14.6-12.4,20-23.2h1.7l4.6,29.4H406V179.7h-61.5
+			v137.8c-6.2,8.2-12,14.1-17.7,17.8c-5.7,3.7-12.5,5.5-20.1,5.4c-8.8,0.2-15.3-2.6-19.5-8.6c-4.2-5.9-6.2-16.3-6.2-31V179.7h-61.5
+			V472.3z"/>
+	</g>
+</g>
+</svg>
